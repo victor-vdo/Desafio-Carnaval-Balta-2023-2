@@ -1,5 +1,5 @@
 
-## DESAFIO 02 - 18/FEV
+## DESAFIO 02 - 18/FEV (Dotnet 6)
 ### Objetivo
 Escreva um programa que calcula o IMC (Índice de massa corporal de uma pessoa) e exibe o resultado.
 #### Resultado esperado

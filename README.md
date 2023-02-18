@@ -4,6 +4,7 @@
 Escreva um programa que calcula o IMC (Índice de massa corporal de uma pessoa) e exibe o resultado.
 #### Resultado esperado
 Informe sua altura: 1,75
+
 Informe seu peso: 85
 
 > Seu IMC é 27.76
